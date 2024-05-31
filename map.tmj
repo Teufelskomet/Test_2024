@@ -7138,6 +7138,39 @@
                  "width":0,
                  "x":2617,
                  "y":426
+                }, 
+                {
+                 "class":"",
+                 "height":55.6666666666661,
+                 "id":72,
+                 "name":"Update",
+                 "rotation":0,
+                 "visible":true,
+                 "width":86.333333333333,
+                 "x":2713.33333333333,
+                 "y":2082.66666666667
+                }, 
+                {
+                 "class":"",
+                 "height":19,
+                 "id":73,
+                 "name":"2024_05_31",
+                 "properties":[
+                        {
+                         "name":"2024_05_31",
+                         "type":"string",
+                         "value":""
+                        }],
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"20240531",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":72,
+                 "x":2720,
+                 "y":2107.16666666667
                 }],
          "opacity":1,
          "properties":[
@@ -7545,7 +7578,7 @@
          "y":0
         }],
  "nextlayerid":140,
- "nextobjectid":72,
+ "nextobjectid":75,
  "orientation":"orthogonal",
  "properties":[
         {
